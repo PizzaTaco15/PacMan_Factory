@@ -3,3 +3,10 @@ When you start PacMan Factory there will be two buttons, Add PacMan and Start Ga
 
 # How To Run
 Just go to https://pizzataco15.github.io/PacMan_Factory/ press Add PacMan and then press Start Game.
+
+# Future Improvements
+Make the buttons look better.
+Make PacMan look better.
+Add a background.
+Make PacMan turn around when he bumps into a wall and make his mouth open and close.
+Add some sound effects and maybe some music.
